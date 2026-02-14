@@ -1,6 +1,6 @@
 Bank Marketing Campaign Performance Analysis | Power BI
-📌 Objective
 
+📌 Objective
 To analyze a bank marketing campaign dataset and identify customer segments and campaign factors influencing term deposit subscription.
 
 📊 Dataset
