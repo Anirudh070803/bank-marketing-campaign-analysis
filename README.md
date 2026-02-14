@@ -1,55 +1,78 @@
-Bank Marketing Campaign Performance Analysis | Power BI
+# 📊 Bank Marketing Campaign Performance Analysis | Power BI
 
-📌 Objective
-To analyze a bank marketing campaign dataset and identify customer segments and campaign factors influencing term deposit subscription.
+---
 
-📊 Dataset
+## 📌 Project Overview
 
-41,000+ customer records
+This project analyzes a bank marketing campaign dataset (41,000+ customer records) to identify customer segments and campaign factors influencing term deposit subscriptions.
 
-Marketing campaign attributes
+The goal was to build an end-to-end Business Intelligence solution using Python for data preparation and Power BI for interactive dashboard development.
 
-Subscription outcome (binary)
+---
 
-Call duration, contact channel, occupation, age group
+## 🎯 Objective
 
-🛠 Tools Used
+- Identify high-converting customer segments
+- Analyze campaign performance trends over time
+- Evaluate impact of contact channel and call duration
+- Provide actionable business recommendations
 
-Python (Pandas for data cleaning)
+---
 
-Power BI (Data modeling & dashboard)
+## 🛠 Tools & Technologies
 
-DAX (Calculated measures & KPIs)
+- **Python (Pandas)** – Data cleaning & preprocessing
+- **Power BI** – Dashboard development
+- **DAX** – KPI & dynamic measure calculations
+- **Data Modeling** – Relationship & calculated columns
 
-📈 Key Metrics
+---
 
-Overall Conversion Rate: 11.27%
+## 📂 Dataset Information
 
-Total Customers Contacted: 41K
+- 41,000+ customer records
+- Demographic attributes (age, job, marital status, education)
+- Campaign details (contact type, month, duration)
+- Target variable: Term Deposit Subscription (Yes/No)
 
-Average Call Duration: 258 seconds
+---
 
-🔎 Key Insights
+## 📈 Key KPIs
 
-Students and Retirees showed the highest conversion rates.
+- **Overall Conversion Rate:** 11.27%
+- **Total Customers Contacted:** 41K
+- **Average Call Duration:** 258 seconds
 
-65+ age group had strongest subscription likelihood.
+---
 
-Cellular contact significantly outperformed telephone.
+## 🔍 Key Insights
 
-Longer call duration strongly correlated with successful subscriptions.
+- Students and retirees showed the highest conversion rates.
+- Customers aged 65+ had the strongest subscription likelihood.
+- Cellular contact significantly outperformed telephone contact.
+- Longer call duration strongly correlated with successful subscription.
+- Conversion rates peaked during March and December campaigns.
 
-Conversion peaked during March and December campaigns.
+---
 
-📌 Business Recommendations
+## 💡 Business Recommendations
 
-Prioritize high-converting customer segments.
+- Prioritize high-converting demographic segments.
+- Allocate more campaign budget to cellular channels.
+- Increase engagement duration during calls.
+- Focus marketing campaigns during high-performing months.
 
-Optimize marketing channel towards cellular contact.
+---
 
-Focus campaign budget during high-performing months.
+## 🖥 Dashboard Preview
 
-Increase engagement duration to improve subscription likelihood.
+### Page 1 – Campaign Performance Overview
+![Dashboard Overview](dashboard_overview.png)
 
-📷 Dashboard Preview
-<img width="2089" height="1087" alt="image" src="https://github.com/user-attachments/assets/ed385c3c-6bfb-48ac-add6-5f3723c287e9" />
+### Page 2 – Customer Segmentation Analysis
+![Customer Segmentation](customer_segmentation.png)
+
+---
+
+## 📁 Project Structure
+
