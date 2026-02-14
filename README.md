@@ -67,12 +67,40 @@ The goal was to build an end-to-end Business Intelligence solution using Python 
 ## 🖥 Dashboard Preview
 
 ### Page 1 – Campaign Performance Overview
-![Dashboard Overview](dashboard_overview.png)
+<img width="2086" height="1092" alt="dashboard_overview" src="https://github.com/user-attachments/assets/feeebb14-79c4-42d1-afea-170c44f7da24" />
+
 
 ### Page 2 – Customer Segmentation Analysis
-![Customer Segmentation](customer_segmentation.png)
+<img width="1353" height="741" alt="customer_segmentation" src="https://github.com/user-attachments/assets/a3f5e331-da6d-4cf3-a335-68573121c09c" />
+
 
 ---
 
 ## 📁 Project Structure
+bank-marketing-campaign-analysis/
+│
+├── data_cleaning.py
+├── bank_cleaned.csv
+├── dashboard_overview.png
+├── customer_segmentation.png
+└── README.md
 
+
+---
+
+## 🚀 Outcome
+
+This project demonstrates:
+
+- End-to-end BI workflow
+- KPI design using DAX
+- Customer segmentation analysis
+- Business insight extraction from marketing data
+- Professional dashboard storytelling
+
+---
+
+## 📌 Author
+
+**Anirudh Ramisetti**  
+MSc Data Science | Business Intelligence & Analytics Enthusiast
